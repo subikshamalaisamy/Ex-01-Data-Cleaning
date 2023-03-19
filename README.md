@@ -118,8 +118,9 @@ data2.isnull().sum()
 ![data2-after](https://user-images.githubusercontent.com/87276633/226177352-67d16a46-35c3-4200-8e9a-cfcbf6237190.png)
 ![data1,2-after](https://user-images.githubusercontent.com/87276633/226177360-874eb2b2-b682-43c5-b89f-2d4792db6360.png)
 
+# Result:
 
-
+Thus the given data is read,cleansed and the cleaned data is saved into the file.
 
 
 
